@@ -1,98 +1,98 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bsp.com" resolutions="1x" timestamp="1541925171480">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bsp.com" resolutions="1x" timestamp="1542122336243">
   <folder name="phone">
     <folder name="css">
-      <file name="classxi-chemistry.css" crc="63516598" ref="phone>classxi-chemistry"/>
-      <file name="operating-systems.css" crc="3781930529" ref="phone>operating-systems"/>
-      <file name="applied-chemistry-i.css" crc="4043016129" ref="phone>applied-chemistry-i"/>
-      <file name="btech-it.css" crc="4021072980" ref="phone>btech-it"/>
-      <file name="btech-eee.css" crc="3885008279" ref="phone>btech-eee"/>
-      <file name="btech-cse.css" crc="4048922385" ref="phone>btech-cse"/>
-      <file name="fluid-mechanics.css" crc="70265193" ref="phone>fluid-mechanics"/>
-      <file name="theory-of-machines.css" crc="3969869662" ref="phone>theory-of-machines"/>
-      <file name="classxi-physics.css" crc="66097549" ref="phone>classxi-physics"/>
-      <file name="chemistry-bsc.css" crc="166208475" ref="phone>chemistry-bsc"/>
-      <file name="join-us.css" crc="4001647233" ref="phone>join-us"/>
-      <file name="meet-our-team.css" crc="264031442" ref="phone>meet-our-team"/>
-      <file name="communication-systems.css" crc="336280132" ref="phone>communication-systems"/>
-      <file name="catalysis.css" crc="3863797643" ref="phone>catalysis"/>
-      <file name="environmental-chemistry.css" crc="4177203406" ref="phone>environmental-chemistry"/>
-      <file name="water.css" crc="434416703" ref="phone>water"/>
-      <file name="thermodynamics.css" crc="388870087" ref="phone>thermodynamics"/>
-      <file name="manufacturing-processes.css" crc="529192829" ref="phone>manufacturing-processes"/>
-      <file name="bsc.css" crc="367097209" ref="phone>bsc"/>
-      <file name="collection.css" crc="130896282" ref="phone>collection"/>
-      <file name="btech-memae.css" crc="222291234" ref="phone>btech-memae"/>
-      <file name="class-xi.css" crc="3845899598" ref="phone>class-xi"/>
-      <file name="sociology.css" crc="309125668" ref="phone>sociology"/>
-      <file name="btech-ece.css" crc="26230350" ref="phone>btech-ece"/>
-      <file name="index.css" crc="192982203" ref="phone>index"/>
-      <file name="applied-mathematics-i.css" crc="3775395784" ref="phone>applied-mathematics-i"/>
-      <file name="switching-theory---logic-design.css" crc="211752299" ref="phone>switching-theory---logic-design"/>
-      <file name="c--.css" crc="487087398" ref="phone>c--"/>
-      <file name="master_a-master.css" crc="4116832933" ref="phone>btech-ece:phone>class-xi:phone>btech-eee:phone>index:phone>classxi-physics:phone>classxi-chemistry:phone>operating-systems:phone>c--:phone>btech-cse:phone>sociology:phone>catalysis:phone>join-us:phone>communication-systems:phone>meet-our-team:phone>switching-theory---logic-design:phone>environmental-chemistry:phone>fluid-mechanics:phone>water:phone>chemistry-bsc:phone>applied-chemistry-i:phone>applied-mathematics-i:phone>bsc:phone>manufacturing-processes:phone>theory-of-machines:phone>collection:phone>btech-it:phone>btech-memae:phone>thermodynamics"/>
-      <file name="master_collection-template.css" crc="3921575633" ref="phone>btech-eee:phone>btech-it:phone>c--:phone>chemistry-bsc:phone>btech-cse:phone>environmental-chemistry:phone>theory-of-machines:phone>collection:phone>water:phone>bsc:phone>btech-memae:phone>communication-systems:phone>fluid-mechanics:phone>manufacturing-processes:phone>btech-ece:phone>switching-theory---logic-design:phone>sociology:phone>operating-systems:phone>applied-chemistry-i:phone>classxi-chemistry:phone>applied-mathematics-i:phone>class-xi:phone>thermodynamics:phone>classxi-physics:phone>catalysis"/>
+      <file name="classxi-chemistry.css" crc="3916626285" ref="phone>classxi-chemistry"/>
+      <file name="operating-systems.css" crc="81313507" ref="phone>operating-systems"/>
+      <file name="applied-chemistry-i.css" crc="4186572994" ref="phone>applied-chemistry-i"/>
+      <file name="btech-it.css" crc="155649355" ref="phone>btech-it"/>
+      <file name="btech-eee.css" crc="382626899" ref="phone>btech-eee"/>
+      <file name="btech-cse.css" crc="3785874265" ref="phone>btech-cse"/>
+      <file name="fluid-mechanics.css" crc="331204754" ref="phone>fluid-mechanics"/>
+      <file name="theory-of-machines.css" crc="515106865" ref="phone>theory-of-machines"/>
+      <file name="classxi-physics.css" crc="3921879669" ref="phone>classxi-physics"/>
+      <file name="chemistry-bsc.css" crc="174679013" ref="phone>chemistry-bsc"/>
+      <file name="join-us.css" crc="184111681" ref="phone>join-us"/>
+      <file name="meet-our-team.css" crc="142064066" ref="phone>meet-our-team"/>
+      <file name="communication-systems.css" crc="4194436236" ref="phone>communication-systems"/>
+      <file name="catalysis.css" crc="449459789" ref="phone>catalysis"/>
+      <file name="environmental-chemistry.css" crc="4259065877" ref="phone>environmental-chemistry"/>
+      <file name="water.css" crc="3858412593" ref="phone>water"/>
+      <file name="thermodynamics.css" crc="4173483932" ref="phone>thermodynamics"/>
+      <file name="manufacturing-processes.css" crc="518471963" ref="phone>manufacturing-processes"/>
+      <file name="bsc.css" crc="3967770713" ref="phone>bsc"/>
+      <file name="collection.css" crc="467138005" ref="phone>collection"/>
+      <file name="btech-memae.css" crc="4101267120" ref="phone>btech-memae"/>
+      <file name="class-xi.css" crc="134990783" ref="phone>class-xi"/>
+      <file name="sociology.css" crc="3887015390" ref="phone>sociology"/>
+      <file name="btech-ece.css" crc="4154833337" ref="phone>btech-ece"/>
+      <file name="index.css" crc="138571576" ref="phone>index"/>
+      <file name="applied-mathematics-i.css" crc="74499561" ref="phone>applied-mathematics-i"/>
+      <file name="switching-theory---logic-design.css" crc="4145934998" ref="phone>switching-theory---logic-design"/>
+      <file name="c--.css" crc="3999189195" ref="phone>c--"/>
+      <file name="master_a-master.css" crc="4132418151" ref="phone>btech-ece:phone>class-xi:phone>btech-eee:phone>index:phone>classxi-physics:phone>classxi-chemistry:phone>operating-systems:phone>c--:phone>btech-cse:phone>sociology:phone>catalysis:phone>join-us:phone>communication-systems:phone>meet-our-team:phone>switching-theory---logic-design:phone>environmental-chemistry:phone>fluid-mechanics:phone>water:phone>chemistry-bsc:phone>applied-chemistry-i:phone>applied-mathematics-i:phone>bsc:phone>manufacturing-processes:phone>theory-of-machines:phone>collection:phone>btech-it:phone>btech-memae:phone>thermodynamics"/>
+      <file name="master_collection-template.css" crc="408806712" ref="phone>btech-eee:phone>btech-it:phone>c--:phone>chemistry-bsc:phone>btech-cse:phone>environmental-chemistry:phone>theory-of-machines:phone>collection:phone>water:phone>bsc:phone>btech-memae:phone>communication-systems:phone>fluid-mechanics:phone>manufacturing-processes:phone>btech-ece:phone>switching-theory---logic-design:phone>sociology:phone>operating-systems:phone>applied-chemistry-i:phone>classxi-chemistry:phone>applied-mathematics-i:phone>class-xi:phone>thermodynamics:phone>classxi-physics:phone>catalysis"/>
     </folder>
-    <file name="index.html" crc="3961010581" seo="true" mt="1541674000444" redirect="true"/>
-    <file name="manufacturing-processes.html" crc="40899572" seo="true" mt="1541745161832" redirect="true"/>
-    <file name="applied-mathematics-i.html" crc="519134015" seo="true" mt="1541924287464" redirect="true"/>
-    <file name="applied-chemistry-i.html" crc="278213691" seo="true" mt="1541924341170" redirect="true"/>
-    <file name="catalysis.html" crc="374747203" seo="true" mt="1541859175178" redirect="true"/>
-    <file name="water.html" crc="148734090" seo="true" mt="1541838727594" redirect="true"/>
-    <file name="environmental-chemistry.html" crc="3896870729" seo="true" mt="1541750921092" redirect="true"/>
-    <file name="c--.html" crc="14689960" seo="true" mt="1541863237344" redirect="true"/>
-    <file name="switching-theory---logic-design.html" crc="4001347995" seo="true" mt="1541751205767" redirect="true"/>
-    <file name="communication-systems.html" crc="4245124385" seo="true" mt="1541752063171" redirect="true"/>
-    <file name="operating-systems.html" crc="3784865240" seo="true" mt="1541751425660" redirect="true"/>
-    <file name="collection.html" crc="91378290" seo="true" mt="1541678336020" redirect="true"/>
-    <file name="class-xi.html" crc="4068895663" seo="true" mt="1541680169571" redirect="true"/>
-    <file name="classxi-chemistry.html" crc="4154072854" seo="true" mt="1541924722764" redirect="true"/>
-    <file name="classxi-physics.html" crc="4160904372" seo="true" mt="1541925145003" redirect="true"/>
-    <file name="btech-cse.html" crc="4117472355" seo="true" mt="1541744322134" redirect="true"/>
-    <file name="btech-it.html" crc="15705535" seo="true" mt="1541744337239" redirect="true"/>
-    <file name="btech-ece.html" crc="389409432" seo="true" mt="1541743671712" redirect="true"/>
-    <file name="btech-eee.html" crc="93875839" seo="true" mt="1541743779050" redirect="true"/>
-    <file name="btech-memae.html" crc="181494174" seo="true" mt="1541744479175" redirect="true"/>
-    <file name="thermodynamics.html" crc="3982889758" seo="true" mt="1541837917263" redirect="true"/>
-    <file name="theory-of-machines.html" crc="411944314" seo="true" mt="1541838017084" redirect="true"/>
-    <file name="fluid-mechanics.html" crc="490741442" seo="true" mt="1541838120385" redirect="true"/>
-    <file name="bsc.html" crc="42740289" seo="true" mt="1541743180397" redirect="true"/>
-    <file name="sociology.html" crc="103679085" seo="true" mt="1541838224482" redirect="true"/>
-    <file name="chemistry-bsc.html" crc="3941928652" seo="true" mt="1541924847508" redirect="true"/>
-    <file name="meet-our-team.html" crc="4032870970" seo="true" mt="1541678053767" redirect="true"/>
-    <file name="join-us.html" crc="3796718650" seo="true" mt="1541677039508" redirect="true"/>
+    <file name="index.html" crc="172960645" seo="true" mt="1542122135400" redirect="true"/>
+    <file name="manufacturing-processes.html" crc="3768985552" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="applied-mathematics-i.html" crc="4122433398" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="applied-chemistry-i.html" crc="3955369116" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="catalysis.html" crc="3845378772" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="water.html" crc="3819223149" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="environmental-chemistry.html" crc="123195481" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="c--.html" crc="4209206759" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="switching-theory---logic-design.html" crc="351476083" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="communication-systems.html" crc="4217107378" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="operating-systems.html" crc="3940111722" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="collection.html" crc="178274229" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="class-xi.html" crc="55394590" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="classxi-chemistry.html" crc="433102458" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="classxi-physics.html" crc="4127304598" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="btech-cse.html" crc="355233146" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="btech-it.html" crc="106019670" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="btech-ece.html" crc="326775798" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="btech-eee.html" crc="469707377" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="btech-memae.html" crc="4225866114" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="thermodynamics.html" crc="28921540" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="theory-of-machines.html" crc="4220966275" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="fluid-mechanics.html" crc="262498866" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="bsc.html" crc="151248423" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="sociology.html" crc="255190638" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="chemistry-bsc.html" crc="375223439" seo="true" mt="1542122261484" redirect="true"/>
+    <file name="meet-our-team.html" crc="3900131236" seo="true" mt="1542122135400" redirect="true"/>
+    <file name="join-us.html" crc="3846491519" seo="true" mt="1542122135400" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="536197522" ref="fluid-mechanics:switching-theory---logic-design:collection:theory-of-machines:btech-memae:catalysis:join-us:operating-systems:bsc:index:water:btech-it:classxi-chemistry:btech-ece:communication-systems:btech-eee:classxi-physics:environmental-chemistry:btech-cse:applied-mathematics-i:class-xi:applied-chemistry-i:meet-our-team:manufacturing-processes:thermodynamics:c--:chemistry-bsc:sociology"/>
-    <file name="master_collection-template.css" crc="3982988061" ref="fluid-mechanics:switching-theory---logic-design:collection:theory-of-machines:btech-memae:catalysis:operating-systems:bsc:water:btech-it:classxi-chemistry:btech-ece:communication-systems:btech-eee:classxi-physics:environmental-chemistry:btech-cse:applied-mathematics-i:class-xi:applied-chemistry-i:manufacturing-processes:thermodynamics:c--:chemistry-bsc:sociology"/>
-    <file name="fluid-mechanics.css" crc="3801434022" ref="fluid-mechanics"/>
-    <file name="switching-theory---logic-design.css" crc="4231106731" ref="switching-theory---logic-design"/>
-    <file name="collection.css" crc="4123044602" ref="collection"/>
-    <file name="theory-of-machines.css" crc="4070957178" ref="theory-of-machines"/>
-    <file name="btech-memae.css" crc="40544939" ref="btech-memae"/>
-    <file name="catalysis.css" crc="409181244" ref="catalysis"/>
-    <file name="join-us.css" crc="375317489" ref="join-us"/>
-    <file name="operating-systems.css" crc="461218179" ref="operating-systems"/>
-    <file name="bsc.css" crc="4130972112" ref="bsc"/>
-    <file name="index.css" crc="98006598" ref="index"/>
-    <file name="water.css" crc="4134387198" ref="water"/>
-    <file name="btech-it.css" crc="427953061" ref="btech-it"/>
-    <file name="classxi-chemistry.css" crc="523487193" ref="classxi-chemistry"/>
-    <file name="btech-ece.css" crc="245405646" ref="btech-ece"/>
-    <file name="communication-systems.css" crc="3855458952" ref="communication-systems"/>
-    <file name="btech-eee.css" crc="471822220" ref="btech-eee"/>
-    <file name="classxi-physics.css" crc="4038506186" ref="classxi-physics"/>
-    <file name="environmental-chemistry.css" crc="4166888598" ref="environmental-chemistry"/>
-    <file name="btech-cse.css" crc="4233818857" ref="btech-cse"/>
-    <file name="applied-mathematics-i.css" crc="477942799" ref="applied-mathematics-i"/>
-    <file name="class-xi.css" crc="4192408474" ref="class-xi"/>
-    <file name="applied-chemistry-i.css" crc="4090984193" ref="applied-chemistry-i"/>
-    <file name="meet-our-team.css" crc="4264948271" ref="meet-our-team"/>
-    <file name="manufacturing-processes.css" crc="3924318478" ref="manufacturing-processes"/>
-    <file name="thermodynamics.css" crc="4180115212" ref="thermodynamics"/>
-    <file name="c--.css" crc="4069664159" ref="c--"/>
-    <file name="chemistry-bsc.css" crc="232847735" ref="chemistry-bsc"/>
-    <file name="sociology.css" crc="3795997167" ref="sociology"/>
+    <file name="master_collection-template.css" crc="446880568" ref="fluid-mechanics:switching-theory---logic-design:collection:theory-of-machines:btech-memae:catalysis:operating-systems:bsc:water:btech-it:classxi-chemistry:btech-ece:communication-systems:btech-eee:classxi-physics:environmental-chemistry:btech-cse:applied-mathematics-i:class-xi:applied-chemistry-i:manufacturing-processes:thermodynamics:c--:chemistry-bsc:sociology"/>
+    <file name="fluid-mechanics.css" crc="4153937463" ref="fluid-mechanics"/>
+    <file name="switching-theory---logic-design.css" crc="4159039925" ref="switching-theory---logic-design"/>
+    <file name="collection.css" crc="3865428105" ref="collection"/>
+    <file name="theory-of-machines.css" crc="257770588" ref="theory-of-machines"/>
+    <file name="btech-memae.css" crc="444556455" ref="btech-memae"/>
+    <file name="catalysis.css" crc="4238408985" ref="catalysis"/>
+    <file name="join-us.css" crc="361196817" ref="join-us"/>
+    <file name="operating-systems.css" crc="3850358067" ref="operating-systems"/>
+    <file name="bsc.css" crc="317734351" ref="bsc"/>
+    <file name="index.css" crc="3812569944" ref="index"/>
+    <file name="water.css" crc="177150868" ref="water"/>
+    <file name="btech-it.css" crc="3819709054" ref="btech-it"/>
+    <file name="classxi-chemistry.css" crc="3956534306" ref="classxi-chemistry"/>
+    <file name="btech-ece.css" crc="200170243" ref="btech-ece"/>
+    <file name="communication-systems.css" crc="459839632" ref="communication-systems"/>
+    <file name="btech-eee.css" crc="4180122889" ref="btech-eee"/>
+    <file name="classxi-physics.css" crc="4204418000" ref="classxi-physics"/>
+    <file name="environmental-chemistry.css" crc="4264023644" ref="environmental-chemistry"/>
+    <file name="btech-cse.css" crc="3785247839" ref="btech-cse"/>
+    <file name="applied-mathematics-i.css" crc="3944111288" ref="applied-mathematics-i"/>
+    <file name="class-xi.css" crc="69715079" ref="class-xi"/>
+    <file name="applied-chemistry-i.css" crc="3798898513" ref="applied-chemistry-i"/>
+    <file name="meet-our-team.css" crc="4060973232" ref="meet-our-team"/>
+    <file name="manufacturing-processes.css" crc="436172708" ref="manufacturing-processes"/>
+    <file name="thermodynamics.css" crc="4218252099" ref="thermodynamics"/>
+    <file name="c--.css" crc="207276206" ref="c--"/>
+    <file name="chemistry-bsc.css" crc="181315008" ref="chemistry-bsc"/>
+    <file name="sociology.css" crc="3773328092" ref="sociology"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:collection:join-us:meet-our-team:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc:phone>index:phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc:phone>meet-our-team:phone>join-us"/>
@@ -106,253 +106,358 @@
     <file name="require.js" crc="7928878" ref="index:collection:join-us:meet-our-team:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc:phone>index:phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc:phone>meet-our-team:phone>join-us"/>
   </folder>
   <folder name="images">
-    <file name="linked in.png" crc="407110625" seo="true" ref="index:collection:join-us:meet-our-team:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc:phone>index:phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc:phone>meet-our-team:phone>join-us">
+    <file name="linked in.png" crc="407110625" seo="true" ref="phone>index:phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc:phone>meet-our-team:phone>join-us:index:collection:join-us:meet-our-team:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc">
+      <caption webpage="btech-ece" alt=""/>
+      <caption webpage="btech-ece" alt=""/>
+      <caption webpage="environmental-chemistry" alt=""/>
+      <caption webpage="environmental-chemistry" alt=""/>
+      <caption webpage="fluid-mechanics" alt=""/>
+      <caption webpage="fluid-mechanics" alt=""/>
+      <caption webpage="catalysis" alt=""/>
+      <caption webpage="catalysis" alt=""/>
+      <caption webpage="join-us" alt=""/>
+      <caption webpage="btech-cse" alt=""/>
+      <caption webpage="btech-cse" alt=""/>
       <caption webpage="thermodynamics" alt=""/>
-      <caption webpage="btech-eee" alt=""/>
-      <caption webpage="manufacturing-processes" alt=""/>
+      <caption webpage="thermodynamics" alt=""/>
+      <caption webpage="meet-our-team" alt=""/>
       <caption webpage="bsc" alt=""/>
+      <caption webpage="bsc" alt=""/>
+      <caption webpage="btech-it" alt=""/>
+      <caption webpage="btech-it" alt=""/>
+      <caption webpage="collection" alt=""/>
+      <caption webpage="collection" alt=""/>
+      <caption webpage="class-xi" alt=""/>
+      <caption webpage="class-xi" alt=""/>
+      <caption webpage="water" alt=""/>
+      <caption webpage="water" alt=""/>
       <caption webpage="applied-chemistry-i" alt=""/>
+      <caption webpage="applied-chemistry-i" alt=""/>
+      <caption webpage="manufacturing-processes" alt=""/>
+      <caption webpage="manufacturing-processes" alt=""/>
+      <caption webpage="btech-memae" alt=""/>
+      <caption webpage="btech-memae" alt=""/>
+      <caption webpage="classxi-chemistry" alt=""/>
+      <caption webpage="classxi-chemistry" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="applied-mathematics-i" alt=""/>
+      <caption webpage="applied-mathematics-i" alt=""/>
+      <caption webpage="sociology" alt=""/>
+      <caption webpage="sociology" alt=""/>
+      <caption webpage="classxi-physics" alt=""/>
       <caption webpage="classxi-physics" alt=""/>
       <caption webpage="communication-systems" alt=""/>
-      <caption webpage="btech-ece" alt=""/>
-      <caption webpage="water" alt=""/>
-      <caption webpage="class-xi" alt=""/>
-      <caption webpage="sociology" alt=""/>
-      <caption webpage="theory-of-machines" alt=""/>
-      <caption webpage="join-us" alt=""/>
-      <caption webpage="catalysis" alt=""/>
-      <caption webpage="environmental-chemistry" alt=""/>
-      <caption webpage="environmental-chemistry" alt=""/>
-      <caption webpage="classxi-chemistry" alt=""/>
+      <caption webpage="communication-systems" alt=""/>
       <caption webpage="operating-systems" alt=""/>
-      <caption webpage="btech-cse" alt=""/>
-      <caption webpage="btech-cse" alt=""/>
-      <caption webpage="meet-our-team" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="btech-memae" alt=""/>
-      <caption webpage="btech-it" alt=""/>
-      <caption webpage="btech-it" alt=""/>
+      <caption webpage="operating-systems" alt=""/>
       <caption webpage="c--" alt=""/>
-      <caption webpage="collection" alt=""/>
-      <caption webpage="collection" alt=""/>
-      <caption webpage="applied-mathematics-i" alt=""/>
-      <caption webpage="fluid-mechanics" alt=""/>
-      <caption webpage="chemistry-bsc" alt=""/>
+      <caption webpage="c--" alt=""/>
+      <caption webpage="theory-of-machines" alt=""/>
+      <caption webpage="theory-of-machines" alt=""/>
+      <caption webpage="btech-eee" alt=""/>
+      <caption webpage="btech-eee" alt=""/>
       <caption webpage="switching-theory---logic-design" alt=""/>
+      <caption webpage="switching-theory---logic-design" alt=""/>
+      <caption webpage="chemistry-bsc" alt=""/>
+      <caption webpage="chemistry-bsc" alt=""/>
     </file>
     <file name="log.png" crc="359843595" seo="true" ref="index:collection:join-us:meet-our-team:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc:phone>index:phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc:phone>meet-our-team:phone>join-us">
+      <caption webpage="environmental-chemistry" alt=""/>
+      <caption webpage="environmental-chemistry" alt=""/>
+      <caption webpage="fluid-mechanics" alt=""/>
+      <caption webpage="fluid-mechanics" alt=""/>
+      <caption webpage="catalysis" alt=""/>
+      <caption webpage="catalysis" alt=""/>
+      <caption webpage="join-us" alt=""/>
+      <caption webpage="btech-cse" alt=""/>
+      <caption webpage="btech-cse" alt=""/>
       <caption webpage="thermodynamics" alt=""/>
-      <caption webpage="btech-eee" alt=""/>
-      <caption webpage="manufacturing-processes" alt=""/>
+      <caption webpage="thermodynamics" alt=""/>
+      <caption webpage="meet-our-team" alt=""/>
+      <caption webpage="water" alt=""/>
+      <caption webpage="water" alt=""/>
+      <caption webpage="btech-it" alt=""/>
+      <caption webpage="btech-it" alt=""/>
+      <caption webpage="collection" alt=""/>
+      <caption webpage="collection" alt=""/>
       <caption webpage="bsc" alt=""/>
+      <caption webpage="bsc" alt=""/>
+      <caption webpage="class-xi" alt=""/>
+      <caption webpage="class-xi" alt=""/>
+      <caption webpage="btech-eee" alt=""/>
+      <caption webpage="btech-eee" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="manufacturing-processes" alt=""/>
+      <caption webpage="manufacturing-processes" alt=""/>
+      <caption webpage="btech-memae" alt=""/>
+      <caption webpage="btech-memae" alt=""/>
+      <caption webpage="classxi-chemistry" alt=""/>
+      <caption webpage="classxi-chemistry" alt=""/>
       <caption webpage="applied-chemistry-i" alt=""/>
+      <caption webpage="applied-chemistry-i" alt=""/>
+      <caption webpage="applied-mathematics-i" alt=""/>
+      <caption webpage="applied-mathematics-i" alt=""/>
+      <caption webpage="sociology" alt=""/>
+      <caption webpage="sociology" alt=""/>
+      <caption webpage="classxi-physics" alt=""/>
       <caption webpage="classxi-physics" alt=""/>
       <caption webpage="communication-systems" alt=""/>
-      <caption webpage="btech-ece" alt=""/>
-      <caption webpage="water" alt=""/>
-      <caption webpage="class-xi" alt=""/>
-      <caption webpage="sociology" alt=""/>
-      <caption webpage="theory-of-machines" alt=""/>
-      <caption webpage="join-us" alt=""/>
-      <caption webpage="catalysis" alt=""/>
-      <caption webpage="environmental-chemistry" alt=""/>
-      <caption webpage="environmental-chemistry" alt=""/>
-      <caption webpage="classxi-chemistry" alt=""/>
+      <caption webpage="communication-systems" alt=""/>
       <caption webpage="operating-systems" alt=""/>
-      <caption webpage="btech-cse" alt=""/>
-      <caption webpage="btech-cse" alt=""/>
-      <caption webpage="meet-our-team" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="btech-memae" alt=""/>
-      <caption webpage="btech-it" alt=""/>
-      <caption webpage="btech-it" alt=""/>
+      <caption webpage="operating-systems" alt=""/>
       <caption webpage="c--" alt=""/>
-      <caption webpage="collection" alt=""/>
-      <caption webpage="collection" alt=""/>
-      <caption webpage="applied-mathematics-i" alt=""/>
-      <caption webpage="fluid-mechanics" alt=""/>
-      <caption webpage="chemistry-bsc" alt=""/>
+      <caption webpage="c--" alt=""/>
+      <caption webpage="theory-of-machines" alt=""/>
+      <caption webpage="theory-of-machines" alt=""/>
+      <caption webpage="btech-ece" alt=""/>
+      <caption webpage="btech-ece" alt=""/>
       <caption webpage="switching-theory---logic-design" alt=""/>
+      <caption webpage="switching-theory---logic-design" alt=""/>
+      <caption webpage="chemistry-bsc" alt=""/>
+      <caption webpage="chemistry-bsc" alt=""/>
     </file>
-    <file name="fb.png" crc="3905520286" seo="true" ref="index:collection:join-us:meet-our-team:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc:phone>index:phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc:phone>meet-our-team:phone>join-us">
+    <file name="fb.png" crc="3905520286" seo="true" ref="phone>index:phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc:phone>meet-our-team:phone>join-us:index:collection:join-us:meet-our-team:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc">
+      <caption webpage="btech-ece" alt=""/>
+      <caption webpage="btech-ece" alt=""/>
+      <caption webpage="environmental-chemistry" alt=""/>
+      <caption webpage="environmental-chemistry" alt=""/>
+      <caption webpage="fluid-mechanics" alt=""/>
+      <caption webpage="fluid-mechanics" alt=""/>
+      <caption webpage="catalysis" alt=""/>
+      <caption webpage="catalysis" alt=""/>
+      <caption webpage="join-us" alt=""/>
+      <caption webpage="btech-cse" alt=""/>
+      <caption webpage="btech-cse" alt=""/>
       <caption webpage="thermodynamics" alt=""/>
-      <caption webpage="btech-eee" alt=""/>
-      <caption webpage="manufacturing-processes" alt=""/>
+      <caption webpage="thermodynamics" alt=""/>
+      <caption webpage="meet-our-team" alt=""/>
       <caption webpage="bsc" alt=""/>
+      <caption webpage="bsc" alt=""/>
+      <caption webpage="btech-it" alt=""/>
+      <caption webpage="btech-it" alt=""/>
+      <caption webpage="collection" alt=""/>
+      <caption webpage="collection" alt=""/>
+      <caption webpage="class-xi" alt=""/>
+      <caption webpage="class-xi" alt=""/>
+      <caption webpage="water" alt=""/>
+      <caption webpage="water" alt=""/>
       <caption webpage="applied-chemistry-i" alt=""/>
+      <caption webpage="applied-chemistry-i" alt=""/>
+      <caption webpage="manufacturing-processes" alt=""/>
+      <caption webpage="manufacturing-processes" alt=""/>
+      <caption webpage="btech-memae" alt=""/>
+      <caption webpage="btech-memae" alt=""/>
+      <caption webpage="classxi-chemistry" alt=""/>
+      <caption webpage="classxi-chemistry" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="applied-mathematics-i" alt=""/>
+      <caption webpage="applied-mathematics-i" alt=""/>
+      <caption webpage="sociology" alt=""/>
+      <caption webpage="sociology" alt=""/>
+      <caption webpage="classxi-physics" alt=""/>
       <caption webpage="classxi-physics" alt=""/>
       <caption webpage="communication-systems" alt=""/>
-      <caption webpage="btech-ece" alt=""/>
-      <caption webpage="water" alt=""/>
-      <caption webpage="class-xi" alt=""/>
-      <caption webpage="sociology" alt=""/>
-      <caption webpage="theory-of-machines" alt=""/>
-      <caption webpage="join-us" alt=""/>
-      <caption webpage="catalysis" alt=""/>
-      <caption webpage="environmental-chemistry" alt=""/>
-      <caption webpage="environmental-chemistry" alt=""/>
-      <caption webpage="classxi-chemistry" alt=""/>
+      <caption webpage="communication-systems" alt=""/>
       <caption webpage="operating-systems" alt=""/>
-      <caption webpage="btech-cse" alt=""/>
-      <caption webpage="btech-cse" alt=""/>
-      <caption webpage="meet-our-team" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="btech-memae" alt=""/>
-      <caption webpage="btech-it" alt=""/>
-      <caption webpage="btech-it" alt=""/>
+      <caption webpage="operating-systems" alt=""/>
       <caption webpage="c--" alt=""/>
-      <caption webpage="collection" alt=""/>
-      <caption webpage="collection" alt=""/>
-      <caption webpage="applied-mathematics-i" alt=""/>
-      <caption webpage="fluid-mechanics" alt=""/>
-      <caption webpage="chemistry-bsc" alt=""/>
+      <caption webpage="c--" alt=""/>
+      <caption webpage="theory-of-machines" alt=""/>
+      <caption webpage="theory-of-machines" alt=""/>
+      <caption webpage="btech-eee" alt=""/>
+      <caption webpage="btech-eee" alt=""/>
       <caption webpage="switching-theory---logic-design" alt=""/>
+      <caption webpage="switching-theory---logic-design" alt=""/>
+      <caption webpage="chemistry-bsc" alt=""/>
+      <caption webpage="chemistry-bsc" alt=""/>
     </file>
     <file name="yt.png" crc="4186914507" seo="true" ref="index:collection:join-us:meet-our-team:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc:phone>index:phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc:phone>meet-our-team:phone>join-us">
+      <caption webpage="environmental-chemistry" alt=""/>
+      <caption webpage="environmental-chemistry" alt=""/>
+      <caption webpage="fluid-mechanics" alt=""/>
+      <caption webpage="fluid-mechanics" alt=""/>
+      <caption webpage="catalysis" alt=""/>
+      <caption webpage="catalysis" alt=""/>
+      <caption webpage="join-us" alt=""/>
+      <caption webpage="btech-cse" alt=""/>
+      <caption webpage="btech-cse" alt=""/>
       <caption webpage="thermodynamics" alt=""/>
-      <caption webpage="btech-eee" alt=""/>
-      <caption webpage="manufacturing-processes" alt=""/>
+      <caption webpage="thermodynamics" alt=""/>
+      <caption webpage="meet-our-team" alt=""/>
+      <caption webpage="water" alt=""/>
+      <caption webpage="water" alt=""/>
+      <caption webpage="btech-it" alt=""/>
+      <caption webpage="btech-it" alt=""/>
+      <caption webpage="collection" alt=""/>
+      <caption webpage="collection" alt=""/>
       <caption webpage="bsc" alt=""/>
+      <caption webpage="bsc" alt=""/>
+      <caption webpage="class-xi" alt=""/>
+      <caption webpage="class-xi" alt=""/>
+      <caption webpage="btech-eee" alt=""/>
+      <caption webpage="btech-eee" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="manufacturing-processes" alt=""/>
+      <caption webpage="manufacturing-processes" alt=""/>
+      <caption webpage="btech-memae" alt=""/>
+      <caption webpage="btech-memae" alt=""/>
+      <caption webpage="classxi-chemistry" alt=""/>
+      <caption webpage="classxi-chemistry" alt=""/>
       <caption webpage="applied-chemistry-i" alt=""/>
+      <caption webpage="applied-chemistry-i" alt=""/>
+      <caption webpage="applied-mathematics-i" alt=""/>
+      <caption webpage="applied-mathematics-i" alt=""/>
+      <caption webpage="sociology" alt=""/>
+      <caption webpage="sociology" alt=""/>
+      <caption webpage="classxi-physics" alt=""/>
       <caption webpage="classxi-physics" alt=""/>
       <caption webpage="communication-systems" alt=""/>
-      <caption webpage="btech-ece" alt=""/>
-      <caption webpage="water" alt=""/>
-      <caption webpage="class-xi" alt=""/>
-      <caption webpage="sociology" alt=""/>
-      <caption webpage="theory-of-machines" alt=""/>
-      <caption webpage="join-us" alt=""/>
-      <caption webpage="catalysis" alt=""/>
-      <caption webpage="environmental-chemistry" alt=""/>
-      <caption webpage="environmental-chemistry" alt=""/>
-      <caption webpage="classxi-chemistry" alt=""/>
+      <caption webpage="communication-systems" alt=""/>
       <caption webpage="operating-systems" alt=""/>
-      <caption webpage="btech-cse" alt=""/>
-      <caption webpage="btech-cse" alt=""/>
-      <caption webpage="meet-our-team" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="btech-memae" alt=""/>
-      <caption webpage="btech-it" alt=""/>
-      <caption webpage="btech-it" alt=""/>
+      <caption webpage="operating-systems" alt=""/>
       <caption webpage="c--" alt=""/>
-      <caption webpage="collection" alt=""/>
-      <caption webpage="collection" alt=""/>
-      <caption webpage="applied-mathematics-i" alt=""/>
-      <caption webpage="fluid-mechanics" alt=""/>
-      <caption webpage="chemistry-bsc" alt=""/>
+      <caption webpage="c--" alt=""/>
+      <caption webpage="theory-of-machines" alt=""/>
+      <caption webpage="theory-of-machines" alt=""/>
+      <caption webpage="btech-ece" alt=""/>
+      <caption webpage="btech-ece" alt=""/>
       <caption webpage="switching-theory---logic-design" alt=""/>
+      <caption webpage="switching-theory---logic-design" alt=""/>
+      <caption webpage="chemistry-bsc" alt=""/>
+      <caption webpage="chemistry-bsc" alt=""/>
     </file>
-    <file name="logo side-crop-u239.png" crc="4096252909" seo="true" ref="index:collection:join-us:meet-our-team:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc">
-      <caption webpage="water" alt=""/>
-      <caption webpage="btech-it" alt=""/>
-      <caption webpage="bsc" alt=""/>
-      <caption webpage="sociology" alt=""/>
-      <caption webpage="chemistry-bsc" alt=""/>
-      <caption webpage="operating-systems" alt=""/>
-      <caption webpage="btech-eee" alt=""/>
-      <caption webpage="applied-chemistry-i" alt=""/>
-      <caption webpage="communication-systems" alt=""/>
-      <caption webpage="manufacturing-processes" alt=""/>
-      <caption webpage="fluid-mechanics" alt=""/>
-      <caption webpage="join-us" alt=""/>
-      <caption webpage="switching-theory---logic-design" alt=""/>
-      <caption webpage="meet-our-team" alt=""/>
+    <file name="logo side-crop-u239.png" crc="3961070268" seo="true" ref="index:collection:join-us:meet-our-team:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc">
       <caption webpage="environmental-chemistry" alt=""/>
-      <caption webpage="collection" alt=""/>
-      <caption webpage="btech-memae" alt=""/>
-      <caption webpage="theory-of-machines" alt=""/>
-      <caption webpage="classxi-chemistry" alt=""/>
-      <caption webpage="class-xi" alt=""/>
-      <caption webpage="btech-ece" alt=""/>
-      <caption webpage="c--" alt=""/>
+      <caption webpage="fluid-mechanics" alt=""/>
       <caption webpage="catalysis" alt=""/>
-      <caption webpage="classxi-physics" alt=""/>
-      <caption webpage="applied-mathematics-i" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="join-us" alt=""/>
       <caption webpage="btech-cse" alt=""/>
       <caption webpage="thermodynamics" alt=""/>
+      <caption webpage="switching-theory---logic-design" alt=""/>
+      <caption webpage="bsc" alt=""/>
+      <caption webpage="btech-it" alt=""/>
+      <caption webpage="collection" alt=""/>
+      <caption webpage="btech-eee" alt=""/>
+      <caption webpage="class-xi" alt=""/>
+      <caption webpage="water" alt=""/>
+      <caption webpage="applied-chemistry-i" alt=""/>
+      <caption webpage="manufacturing-processes" alt=""/>
+      <caption webpage="btech-memae" alt=""/>
+      <caption webpage="classxi-chemistry" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="applied-mathematics-i" alt=""/>
+      <caption webpage="sociology" alt=""/>
+      <caption webpage="classxi-physics" alt=""/>
+      <caption webpage="communication-systems" alt=""/>
+      <caption webpage="operating-systems" alt=""/>
+      <caption webpage="c--" alt=""/>
+      <caption webpage="theory-of-machines" alt=""/>
+      <caption webpage="btech-ece" alt=""/>
+      <caption webpage="meet-our-team" alt=""/>
+      <caption webpage="chemistry-bsc" alt=""/>
     </file>
     <file name="name-u374.png" crc="505407046" ref="index"/>
     <file name="background1.png" crc="466837061" ref="index:collection:join-us:meet-our-team:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc">
-      <caption webpage="water" alt=""/>
-      <caption webpage="btech-it" alt=""/>
-      <caption webpage="bsc" alt=""/>
-      <caption webpage="sociology" alt=""/>
-      <caption webpage="chemistry-bsc" alt=""/>
-      <caption webpage="operating-systems" alt=""/>
-      <caption webpage="btech-eee" alt=""/>
-      <caption webpage="applied-chemistry-i" alt=""/>
-      <caption webpage="communication-systems" alt=""/>
-      <caption webpage="manufacturing-processes" alt=""/>
-      <caption webpage="fluid-mechanics" alt=""/>
-      <caption webpage="join-us" alt=""/>
-      <caption webpage="switching-theory---logic-design" alt=""/>
-      <caption webpage="meet-our-team" alt=""/>
       <caption webpage="environmental-chemistry" alt=""/>
-      <caption webpage="collection" alt=""/>
-      <caption webpage="btech-memae" alt=""/>
-      <caption webpage="theory-of-machines" alt=""/>
-      <caption webpage="classxi-chemistry" alt=""/>
-      <caption webpage="class-xi" alt=""/>
-      <caption webpage="btech-ece" alt=""/>
-      <caption webpage="c--" alt=""/>
+      <caption webpage="fluid-mechanics" alt=""/>
       <caption webpage="catalysis" alt=""/>
-      <caption webpage="classxi-physics" alt=""/>
-      <caption webpage="applied-mathematics-i" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="join-us" alt=""/>
       <caption webpage="btech-cse" alt=""/>
       <caption webpage="thermodynamics" alt=""/>
+      <caption webpage="switching-theory---logic-design" alt=""/>
+      <caption webpage="bsc" alt=""/>
+      <caption webpage="btech-it" alt=""/>
+      <caption webpage="collection" alt=""/>
+      <caption webpage="btech-eee" alt=""/>
+      <caption webpage="class-xi" alt=""/>
+      <caption webpage="water" alt=""/>
+      <caption webpage="applied-chemistry-i" alt=""/>
+      <caption webpage="manufacturing-processes" alt=""/>
+      <caption webpage="btech-memae" alt=""/>
+      <caption webpage="classxi-chemistry" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="applied-mathematics-i" alt=""/>
+      <caption webpage="sociology" alt=""/>
+      <caption webpage="classxi-physics" alt=""/>
+      <caption webpage="communication-systems" alt=""/>
+      <caption webpage="operating-systems" alt=""/>
+      <caption webpage="c--" alt=""/>
+      <caption webpage="theory-of-machines" alt=""/>
+      <caption webpage="btech-ece" alt=""/>
+      <caption webpage="meet-our-team" alt=""/>
+      <caption webpage="chemistry-bsc" alt=""/>
     </file>
     <file name="detective.png" crc="519792170" seo="true" ref="collection:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc:phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc">
-      <caption webpage="thermodynamics" alt=""/>
-      <caption webpage="btech-eee" alt=""/>
-      <caption webpage="operating-systems" alt=""/>
+      <caption webpage="theory-of-machines" alt=""/>
+      <caption webpage="theory-of-machines" alt=""/>
       <caption webpage="applied-chemistry-i" alt=""/>
+      <caption webpage="applied-chemistry-i" alt=""/>
+      <caption webpage="btech-ece" alt=""/>
+      <caption webpage="btech-ece" alt=""/>
+      <caption webpage="class-xi" alt=""/>
+      <caption webpage="class-xi" alt=""/>
+      <caption webpage="bsc" alt=""/>
+      <caption webpage="bsc" alt=""/>
+      <caption webpage="environmental-chemistry" alt=""/>
+      <caption webpage="environmental-chemistry" alt=""/>
+      <caption webpage="manufacturing-processes" alt=""/>
+      <caption webpage="manufacturing-processes" alt=""/>
+      <caption webpage="btech-memae" alt=""/>
+      <caption webpage="btech-memae" alt=""/>
+      <caption webpage="catalysis" alt=""/>
+      <caption webpage="catalysis" alt=""/>
+      <caption webpage="collection" alt=""/>
+      <caption webpage="collection" alt=""/>
+      <caption webpage="classxi-chemistry" alt=""/>
+      <caption webpage="classxi-chemistry" alt=""/>
+      <caption webpage="btech-cse" alt=""/>
+      <caption webpage="btech-cse" alt=""/>
+      <caption webpage="applied-mathematics-i" alt=""/>
+      <caption webpage="applied-mathematics-i" alt=""/>
+      <caption webpage="sociology" alt=""/>
+      <caption webpage="sociology" alt=""/>
+      <caption webpage="thermodynamics" alt=""/>
+      <caption webpage="thermodynamics" alt=""/>
+      <caption webpage="communication-systems" alt=""/>
+      <caption webpage="communication-systems" alt=""/>
+      <caption webpage="btech-eee" alt=""/>
+      <caption webpage="btech-eee" alt=""/>
+      <caption webpage="btech-it" alt=""/>
+      <caption webpage="btech-it" alt=""/>
+      <caption webpage="operating-systems" alt=""/>
+      <caption webpage="operating-systems" alt=""/>
+      <caption webpage="c--" alt=""/>
       <caption webpage="c--" alt=""/>
       <caption webpage="classxi-physics" alt=""/>
-      <caption webpage="bsc" alt=""/>
+      <caption webpage="classxi-physics" alt=""/>
+      <caption webpage="fluid-mechanics" alt=""/>
+      <caption webpage="fluid-mechanics" alt=""/>
+      <caption webpage="switching-theory---logic-design" alt=""/>
+      <caption webpage="switching-theory---logic-design" alt=""/>
+      <caption webpage="water" alt=""/>
       <caption webpage="water" alt=""/>
       <caption webpage="chemistry-bsc" alt=""/>
-      <caption webpage="catalysis" alt=""/>
-      <caption webpage="btech-it" alt=""/>
-      <caption webpage="btech-it" alt=""/>
-      <caption webpage="communication-systems" alt=""/>
-      <caption webpage="theory-of-machines" alt=""/>
-      <caption webpage="manufacturing-processes" alt=""/>
-      <caption webpage="btech-cse" alt=""/>
-      <caption webpage="btech-cse" alt=""/>
-      <caption webpage="collection" alt=""/>
-      <caption webpage="collection" alt=""/>
-      <caption webpage="class-xi" alt=""/>
-      <caption webpage="sociology" alt=""/>
-      <caption webpage="btech-ece" alt=""/>
-      <caption webpage="switching-theory---logic-design" alt=""/>
-      <caption webpage="applied-mathematics-i" alt=""/>
-      <caption webpage="fluid-mechanics" alt=""/>
-      <caption webpage="btech-memae" alt=""/>
-      <caption webpage="environmental-chemistry" alt=""/>
-      <caption webpage="environmental-chemistry" alt=""/>
-      <caption webpage="classxi-chemistry" alt=""/>
+      <caption webpage="chemistry-bsc" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="collection:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc:phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc"/>
-    <file name="u957.png" crc="3828376813" ref="collection:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc"/>
-    <file name="u957-a.png" crc="318120838" ref="collection:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc"/>
-    <file name="arrowmenudown.png" crc="262559161" ref="collection:phone>manufacturing-processes:phone>class-xi:btech-cse:phone>applied-mathematics-i:environmental-chemistry">
+    <file name="u957.png" crc="363083905" ref="collection:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc"/>
+    <file name="u957-a.png" crc="3905099150" ref="collection:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="collection:phone>manufacturing-processes">
       <caption webpage="btech-cse" alt=""/>
+      <caption webpage="applied-mathematics-i" alt=""/>
+      <caption webpage="btech-it" alt=""/>
+      <caption webpage="applied-chemistry-i" alt=""/>
+      <caption webpage="environmental-chemistry" alt=""/>
+      <caption webpage="manufacturing-processes" alt=""/>
       <caption webpage="collection" alt=""/>
       <caption webpage="class-xi" alt=""/>
-      <caption webpage="applied-chemistry-i" alt=""/>
-      <caption webpage="applied-mathematics-i" alt=""/>
-      <caption webpage="manufacturing-processes" alt=""/>
-      <caption webpage="environmental-chemistry" alt=""/>
-      <caption webpage="btech-it" alt=""/>
     </file>
-    <file name="u945-4.png" crc="3862143572" ref="collection:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc"/>
-    <file name="u926-4.png" crc="57686349" ref="collection:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc"/>
-    <file name="u933-4.png" crc="3771189010" ref="collection:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc"/>
-    <file name="u939-4.png" crc="102729143" ref="collection:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc"/>
-    <file name="u953-4.png" crc="328552769" ref="collection:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc"/>
-    <file name="u916-4.png" crc="3759689476" ref="collection:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc"/>
+    <file name="u945-4.png" crc="4067071022" ref="collection:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc"/>
+    <file name="u926-4.png" crc="157050765" ref="collection:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc"/>
+    <file name="u933-4.png" crc="4148648309" ref="collection:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc"/>
+    <file name="u939-4.png" crc="432469234" ref="collection:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc"/>
+    <file name="u953-4.png" crc="106988551" ref="collection:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc"/>
+    <file name="u916-4.png" crc="4193578433" ref="collection:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc"/>
     <file name="manu.jpg" crc="65905353" seo="true" ref="meet-our-team">
       <caption webpage="meet-our-team" alt=""/>
     </file>
@@ -367,138 +472,143 @@
     </file>
     <file name="class xi chem.jpg" crc="4220465572" seo="true" ref="class-xi:phone>class-xi">
       <caption webpage="class-xi" alt=""/>
+      <caption webpage="class-xi" alt=""/>
     </file>
     <file name="class xi phy.jpg" crc="422214943" seo="true" ref="class-xi:phone>class-xi">
       <caption webpage="class-xi" alt=""/>
+      <caption webpage="class-xi" alt=""/>
     </file>
     <file name="c--.png" crc="4086849247" seo="true" ref="class-xi:btech-cse:btech-it:phone>class-xi:phone>btech-cse:phone>btech-it">
+      <caption webpage="btech-cse" alt=""/>
+      <caption webpage="btech-cse" alt=""/>
       <caption webpage="class-xi" alt=""/>
-      <caption webpage="btech-cse" alt=""/>
-      <caption webpage="btech-cse" alt=""/>
+      <caption webpage="class-xi" alt=""/>
       <caption webpage="btech-it" alt=""/>
       <caption webpage="btech-it" alt=""/>
     </file>
     <file name="environmental chem.png" crc="468639927" seo="true" ref="btech-cse:btech-it:btech-eee:btech-ece:btech-memae:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae">
+      <caption webpage="btech-cse" alt=""/>
+      <caption webpage="btech-cse" alt=""/>
       <caption webpage="btech-memae" alt=""/>
-      <caption webpage="btech-cse" alt=""/>
-      <caption webpage="btech-cse" alt=""/>
+      <caption webpage="btech-memae" alt=""/>
+      <caption webpage="btech-ece" alt=""/>
+      <caption webpage="btech-ece" alt=""/>
+      <caption webpage="btech-eee" alt=""/>
       <caption webpage="btech-eee" alt=""/>
       <caption webpage="btech-it" alt=""/>
       <caption webpage="btech-it" alt=""/>
-      <caption webpage="btech-ece" alt=""/>
     </file>
     <file name="chemisty.png" crc="4254893377" seo="true" ref="btech-cse:btech-it:btech-eee:btech-ece:btech-memae:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae">
+      <caption webpage="btech-cse" alt=""/>
+      <caption webpage="btech-cse" alt=""/>
       <caption webpage="btech-memae" alt=""/>
-      <caption webpage="btech-cse" alt=""/>
-      <caption webpage="btech-cse" alt=""/>
+      <caption webpage="btech-memae" alt=""/>
+      <caption webpage="btech-ece" alt=""/>
+      <caption webpage="btech-ece" alt=""/>
+      <caption webpage="btech-eee" alt=""/>
       <caption webpage="btech-eee" alt=""/>
       <caption webpage="btech-it" alt=""/>
       <caption webpage="btech-it" alt=""/>
-      <caption webpage="btech-ece" alt=""/>
     </file>
     <file name="manufacturing processes.png" crc="325288868" seo="true" ref="btech-cse:btech-it:btech-eee:btech-ece:btech-memae:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae">
+      <caption webpage="btech-cse" alt=""/>
+      <caption webpage="btech-cse" alt=""/>
       <caption webpage="btech-memae" alt=""/>
-      <caption webpage="btech-cse" alt=""/>
-      <caption webpage="btech-cse" alt=""/>
+      <caption webpage="btech-memae" alt=""/>
+      <caption webpage="btech-ece" alt=""/>
+      <caption webpage="btech-ece" alt=""/>
+      <caption webpage="btech-eee" alt=""/>
       <caption webpage="btech-eee" alt=""/>
       <caption webpage="btech-it" alt=""/>
       <caption webpage="btech-it" alt=""/>
-      <caption webpage="btech-ece" alt=""/>
     </file>
     <file name="mathematics.png" crc="507549987" seo="true" ref="btech-cse:btech-it:btech-eee:btech-ece:btech-memae:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae">
+      <caption webpage="btech-cse" alt=""/>
+      <caption webpage="btech-cse" alt=""/>
       <caption webpage="btech-memae" alt=""/>
-      <caption webpage="btech-cse" alt=""/>
-      <caption webpage="btech-cse" alt=""/>
-      <caption webpage="btech-eee" alt=""/>
-      <caption webpage="btech-it" alt=""/>
-      <caption webpage="btech-it" alt=""/>
+      <caption webpage="btech-memae" alt=""/>
       <caption webpage="btech-ece" alt=""/>
-    </file>
-    <file name="stld.jpg" crc="4089376494" seo="true" ref="btech-eee:btech-ece:btech-memae">
-      <caption webpage="btech-memae" alt=""/>
-      <caption webpage="btech-cse" alt=""/>
       <caption webpage="btech-ece" alt=""/>
       <caption webpage="btech-eee" alt=""/>
+      <caption webpage="btech-eee" alt=""/>
+      <caption webpage="btech-it" alt=""/>
       <caption webpage="btech-it" alt=""/>
     </file>
     <file name="communication systems.jpg" crc="4290070186" seo="true" ref="btech-cse:btech-it:btech-eee:btech-ece:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee">
       <caption webpage="btech-cse" alt=""/>
       <caption webpage="btech-cse" alt=""/>
+      <caption webpage="btech-ece" alt=""/>
+      <caption webpage="btech-ece" alt=""/>
+      <caption webpage="btech-eee" alt=""/>
       <caption webpage="btech-eee" alt=""/>
       <caption webpage="btech-it" alt=""/>
       <caption webpage="btech-it" alt=""/>
-      <caption webpage="btech-ece" alt=""/>
-    </file>
-    <file name="fluid mechanics.jpg" crc="297229708" seo="true" ref="btech-memae">
-      <caption webpage="btech-memae" alt=""/>
-    </file>
-    <file name="thermodynamics.jpg" crc="3772919056" seo="true" ref="btech-memae">
-      <caption webpage="btech-memae" alt=""/>
     </file>
     <file name="theory of machines.png" crc="10853472" seo="true" ref="btech-memae:phone>btech-memae">
+      <caption webpage="btech-memae" alt=""/>
       <caption webpage="btech-memae" alt=""/>
     </file>
     <file name="catalysis.png" crc="3837322874" seo="true" ref="applied-chemistry-i:phone>applied-chemistry-i">
       <caption webpage="applied-chemistry-i" alt=""/>
+      <caption webpage="applied-chemistry-i" alt=""/>
     </file>
     <file name="water.jpg" crc="506339453" seo="true" ref="applied-chemistry-i:phone>applied-chemistry-i">
       <caption webpage="applied-chemistry-i" alt=""/>
-    </file>
-    <file name="titles.jpg" crc="35086069" seo="true" ref="bsc">
-      <caption webpage="bsc" alt=""/>
+      <caption webpage="applied-chemistry-i" alt=""/>
     </file>
     <file name="chemisty2.png" crc="3927104023" seo="true" ref="bsc:phone>bsc">
       <caption webpage="bsc" alt=""/>
-    </file>
-    <file name="u3984-4.png" crc="4134134158" ref="collection:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc"/>
-    <file name="logo side-crop-u4161.png" crc="112732815" seo="true" ref="phone>index:phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc:phone>meet-our-team:phone>join-us">
-      <caption webpage="thermodynamics" alt=""/>
-      <caption webpage="btech-eee" alt=""/>
-      <caption webpage="manufacturing-processes" alt=""/>
       <caption webpage="bsc" alt=""/>
+    </file>
+    <file name="u3984-4.png" crc="206925256" ref="collection:class-xi:btech-cse:btech-it:btech-eee:btech-ece:btech-memae:bsc:manufacturing-processes:switching-theory---logic-design:c--:environmental-chemistry:applied-chemistry-i:applied-mathematics-i:classxi-chemistry:classxi-physics:communication-systems:catalysis:water:operating-systems:thermodynamics:theory-of-machines:fluid-mechanics:sociology:chemistry-bsc"/>
+    <file name="logo side-crop-u4161.png" crc="62534673" seo="true" ref="phone>index:phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc:phone>meet-our-team:phone>join-us">
+      <caption webpage="btech-ece" alt=""/>
+      <caption webpage="environmental-chemistry" alt=""/>
+      <caption webpage="fluid-mechanics" alt=""/>
+      <caption webpage="catalysis" alt=""/>
+      <caption webpage="join-us" alt=""/>
+      <caption webpage="btech-cse" alt=""/>
+      <caption webpage="thermodynamics" alt=""/>
+      <caption webpage="meet-our-team" alt=""/>
+      <caption webpage="bsc" alt=""/>
+      <caption webpage="btech-it" alt=""/>
+      <caption webpage="collection" alt=""/>
+      <caption webpage="class-xi" alt=""/>
+      <caption webpage="water" alt=""/>
       <caption webpage="applied-chemistry-i" alt=""/>
+      <caption webpage="manufacturing-processes" alt=""/>
+      <caption webpage="btech-memae" alt=""/>
+      <caption webpage="classxi-chemistry" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="applied-mathematics-i" alt=""/>
+      <caption webpage="sociology" alt=""/>
       <caption webpage="classxi-physics" alt=""/>
       <caption webpage="communication-systems" alt=""/>
-      <caption webpage="btech-ece" alt=""/>
-      <caption webpage="water" alt=""/>
-      <caption webpage="class-xi" alt=""/>
-      <caption webpage="sociology" alt=""/>
-      <caption webpage="theory-of-machines" alt=""/>
-      <caption webpage="join-us" alt=""/>
-      <caption webpage="catalysis" alt=""/>
-      <caption webpage="environmental-chemistry" alt=""/>
-      <caption webpage="classxi-chemistry" alt=""/>
       <caption webpage="operating-systems" alt=""/>
-      <caption webpage="btech-cse" alt=""/>
-      <caption webpage="meet-our-team" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="btech-memae" alt=""/>
-      <caption webpage="btech-it" alt=""/>
       <caption webpage="c--" alt=""/>
-      <caption webpage="collection" alt=""/>
-      <caption webpage="applied-mathematics-i" alt=""/>
-      <caption webpage="fluid-mechanics" alt=""/>
-      <caption webpage="chemistry-bsc" alt=""/>
+      <caption webpage="theory-of-machines" alt=""/>
+      <caption webpage="btech-eee" alt=""/>
       <caption webpage="switching-theory---logic-design" alt=""/>
+      <caption webpage="chemistry-bsc" alt=""/>
     </file>
     <file name="name-u4281.png" crc="4119342526" ref="phone>index"/>
-    <file name="background11440x810.jpg" crc="3786120763" ref="phone>index:phone>class-xi:phone>manufacturing-processes:phone>applied-mathematics-i">
+    <file name="background11440x810.jpg" crc="3786120763" ref="phone>index:phone>manufacturing-processes">
       <caption webpage="index" alt=""/>
       <caption webpage="applied-chemistry-i" alt=""/>
-      <caption webpage="class-xi" alt=""/>
       <caption webpage="applied-mathematics-i" alt=""/>
       <caption webpage="manufacturing-processes" alt=""/>
+      <caption webpage="class-xi" alt=""/>
       <caption webpage="btech-it" alt=""/>
     </file>
-    <file name="u4376.png" crc="375094140" ref="phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc"/>
-    <file name="u4376-a.png" crc="4107182535" ref="phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc"/>
-    <file name="u4352-4.png" crc="249776681" ref="phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc"/>
-    <file name="u4343-4.png" crc="3870985538" ref="phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc"/>
-    <file name="u4369-4.png" crc="3890357409" ref="phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc"/>
-    <file name="u4364-4.png" crc="4209641898" ref="phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc"/>
-    <file name="u4327-4.png" crc="3827692332" ref="phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc"/>
-    <file name="u4356-4.png" crc="15980969" ref="phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc"/>
-    <file name="u4337-4.png" crc="4123751926" ref="phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc"/>
+    <file name="u4376.png" crc="4287722233" ref="phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc"/>
+    <file name="u4376-a.png" crc="194301243" ref="phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc"/>
+    <file name="u4352-4.png" crc="299146388" ref="phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc"/>
+    <file name="u4343-4.png" crc="329817871" ref="phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc"/>
+    <file name="u4369-4.png" crc="3851180253" ref="phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc"/>
+    <file name="u4364-4.png" crc="3901408497" ref="phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc"/>
+    <file name="u4327-4.png" crc="473798081" ref="phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc"/>
+    <file name="u4356-4.png" crc="3970533953" ref="phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc"/>
+    <file name="u4337-4.png" crc="4194264273" ref="phone>manufacturing-processes:phone>applied-mathematics-i:phone>applied-chemistry-i:phone>catalysis:phone>water:phone>environmental-chemistry:phone>c--:phone>switching-theory---logic-design:phone>communication-systems:phone>operating-systems:phone>collection:phone>class-xi:phone>classxi-chemistry:phone>classxi-physics:phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:phone>thermodynamics:phone>theory-of-machines:phone>fluid-mechanics:phone>bsc:phone>sociology:phone>chemistry-bsc"/>
     <file name="manu151x163.jpg" crc="4599139" seo="true" ref="phone>meet-our-team">
       <caption webpage="meet-our-team" alt=""/>
     </file>
@@ -511,14 +621,17 @@
     <file name="aakash151x163.jpg" crc="513249536" seo="true" ref="phone>meet-our-team">
       <caption webpage="meet-our-team" alt=""/>
     </file>
-    <file name="stld.png" crc="386240141" seo="true" ref="phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:btech-cse:btech-it">
+    <file name="stld.png" crc="386240141" seo="true" ref="phone>btech-cse:phone>btech-it:phone>btech-ece:phone>btech-eee:phone>btech-memae:btech-cse:btech-it:btech-eee:btech-ece:btech-memae">
       <caption webpage="btech-cse" alt=""/>
       <caption webpage="btech-cse" alt=""/>
       <caption webpage="btech-memae" alt=""/>
+      <caption webpage="btech-memae" alt=""/>
+      <caption webpage="btech-ece" alt=""/>
+      <caption webpage="btech-ece" alt=""/>
+      <caption webpage="btech-eee" alt=""/>
       <caption webpage="btech-eee" alt=""/>
       <caption webpage="btech-it" alt=""/>
       <caption webpage="btech-it" alt=""/>
-      <caption webpage="btech-ece" alt=""/>
     </file>
     <file name="operating systems.jpg" crc="440520218" seo="true" ref="phone>btech-cse:phone>btech-it:btech-cse:btech-it">
       <caption webpage="btech-cse" alt=""/>
@@ -526,42 +639,45 @@
       <caption webpage="btech-it" alt=""/>
       <caption webpage="btech-it" alt=""/>
     </file>
-    <file name="fluid mechanics.png" crc="211942617" seo="true" ref="phone>btech-memae">
+    <file name="fluid mechanics.png" crc="211942617" seo="true" ref="phone>btech-memae:btech-memae">
+      <caption webpage="btech-memae" alt=""/>
       <caption webpage="btech-memae" alt=""/>
     </file>
-    <file name="thermodynamics.png" crc="233577118" seo="true" ref="phone>btech-memae">
+    <file name="thermodynamics.png" crc="233577118" seo="true" ref="phone>btech-memae:btech-memae">
+      <caption webpage="btech-memae" alt=""/>
       <caption webpage="btech-memae" alt=""/>
     </file>
-    <file name="titles.png" crc="27500285" seo="true" ref="phone>bsc">
+    <file name="titles.png" crc="27500285" seo="true" ref="phone>bsc:bsc">
+      <caption webpage="bsc" alt=""/>
       <caption webpage="bsc" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4021973654" seo="true" mt="1541612307873" redirect="true"/>
-  <file name="collection.html" crc="3927040897" seo="true" mt="1541674047734" redirect="true"/>
-  <file name="join-us.html" crc="4100546935" seo="true" mt="1541579833685" redirect="true"/>
-  <file name="meet-our-team.html" crc="287262382" seo="true" mt="1541579833644" redirect="true"/>
-  <file name="class-xi.html" crc="240473994" seo="true" mt="1541674047734" redirect="true"/>
-  <file name="btech-cse.html" crc="3863020783" seo="true" mt="1541744154858" redirect="true"/>
-  <file name="btech-it.html" crc="326787637" seo="true" mt="1541744182908" redirect="true"/>
-  <file name="btech-eee.html" crc="41288671" seo="true" mt="1541674047734" redirect="true"/>
-  <file name="btech-ece.html" crc="4021666501" seo="true" mt="1541674047734" redirect="true"/>
-  <file name="btech-memae.html" crc="4011230712" seo="true" mt="1541674047734" redirect="true"/>
-  <file name="bsc.html" crc="4037829044" seo="true" mt="1541674047734" redirect="true"/>
-  <file name="manufacturing-processes.html" crc="4207740454" seo="true" mt="1541674047734" redirect="true"/>
-  <file name="switching-theory---logic-design.html" crc="359593169" seo="true" mt="1541674047734" redirect="true"/>
-  <file name="c--.html" crc="224534238" seo="true" mt="1541674047734" redirect="true"/>
-  <file name="environmental-chemistry.html" crc="416866328" seo="true" mt="1541750693362" redirect="true"/>
-  <file name="applied-chemistry-i.html" crc="480654116" seo="true" mt="1541674047734" redirect="true"/>
-  <file name="applied-mathematics-i.html" crc="3987034630" seo="true" mt="1541674047734" redirect="true"/>
-  <file name="classxi-chemistry.html" crc="3791475287" seo="true" mt="1541674047734" redirect="true"/>
-  <file name="classxi-physics.html" crc="302545551" seo="true" mt="1541674047734" redirect="true"/>
-  <file name="communication-systems.html" crc="449774796" seo="true" mt="1541674047734" redirect="true"/>
-  <file name="catalysis.html" crc="478231372" seo="true" mt="1541674047734" redirect="true"/>
-  <file name="water.html" crc="4030034311" seo="true" mt="1541674047734" redirect="true"/>
-  <file name="operating-systems.html" crc="120724748" seo="true" mt="1541674047734" redirect="true"/>
-  <file name="thermodynamics.html" crc="91401241" seo="true" mt="1541674047734" redirect="true"/>
-  <file name="theory-of-machines.html" crc="266578988" seo="true" mt="1541674047734" redirect="true"/>
-  <file name="fluid-mechanics.html" crc="3857935542" seo="true" mt="1541674047734" redirect="true"/>
-  <file name="sociology.html" crc="56224888" seo="true" mt="1541674047734" redirect="true"/>
-  <file name="chemistry-bsc.html" crc="82951546" seo="true" mt="1541674047734" redirect="true"/>
+  <file name="index.html" crc="257452957" seo="true" mt="1542121871211" redirect="true"/>
+  <file name="collection.html" crc="4090505880" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="join-us.html" crc="71643639" seo="true" mt="1542121871211" redirect="true"/>
+  <file name="meet-our-team.html" crc="3796577395" seo="true" mt="1542121871211" redirect="true"/>
+  <file name="class-xi.html" crc="349016905" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="btech-cse.html" crc="188983585" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="btech-it.html" crc="4281649135" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="btech-eee.html" crc="476460192" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="btech-ece.html" crc="3858769343" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="btech-memae.html" crc="41936619" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="bsc.html" crc="41531869" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="manufacturing-processes.html" crc="440976662" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="switching-theory---logic-design.html" crc="3820242143" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="c--.html" crc="4246256551" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="environmental-chemistry.html" crc="3911625333" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="applied-chemistry-i.html" crc="3769494703" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="applied-mathematics-i.html" crc="442441368" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="classxi-chemistry.html" crc="3839377428" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="classxi-physics.html" crc="197836854" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="communication-systems.html" crc="492449004" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="catalysis.html" crc="158676642" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="water.html" crc="4111084051" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="operating-systems.html" crc="3835777663" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="thermodynamics.html" crc="4273311407" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="theory-of-machines.html" crc="80434750" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="fluid-mechanics.html" crc="3991426437" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="sociology.html" crc="4156717077" seo="true" mt="1542122296110" redirect="true"/>
+  <file name="chemistry-bsc.html" crc="3764507614" seo="true" mt="1542122296110" redirect="true"/>
 </manifest>
